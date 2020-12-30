@@ -1,4 +1,4 @@
 # hello-word
 just another reposotory
 
-this is me first use github,hhhhh
+this is my first time use github,hhhhh
